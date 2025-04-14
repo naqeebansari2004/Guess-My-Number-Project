@@ -10,8 +10,11 @@ Play the game here: [Guess My Number](https://naqeebansari2004.github.io/Guess-M
 
 ## 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/4ddbdfd5-b4a4-4619-827c-0334d01ac92f)
+
 ![image](https://github.com/user-attachments/assets/9e417fd4-e16e-40a4-9f54-4a7253d96a97)
+
 ![image](https://github.com/user-attachments/assets/a0685b81-3d59-495c-9f46-0e1a3e987e8e)
+
 ![image](https://github.com/user-attachments/assets/460eed72-a68f-4be3-9540-a6b6fdc0811f)
 
 
