@@ -1,5 +1,3 @@
----
-
 # 🎯 Guess My Number
 
 A fun and interactive number guessing game built with HTML, CSS, and JavaScript. Test your luck and logic by guessing the secret number between 1 and 20!
